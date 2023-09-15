@@ -16,8 +16,9 @@ On the official Kali Linux website downloads section, you can find Kali Linux .i
 
 ![image](https://github.com/R-Guruprasad/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/119390308/221b102d-bead-4df2-9503-35d3801c409e)
 
-## Step 2: Create Kali Linux VirtualBox Container After downloading the .iso image, create a new virtual machine and import Kali as its OS.
+## Step 2: Create Kali Linux VirtualBox Container 
 
+After downloading the .iso image, create a new virtual machine and import Kali as its OS.
 1. Launch VirtualBox Manager and click the New icon.
 2. Name and operating system. A pop-up window for creating a new VM appears. Specify a name and a destination folder. The Type and Version change automatically, based on the name you provide. Make sure the formation matches the package you downloaded and click Next.
 
